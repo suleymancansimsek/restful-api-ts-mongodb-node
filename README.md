@@ -33,12 +33,13 @@ git clone https://github.com/suleymancansimsek/restful-api-ts-mongodb-node.git
 npm i
 ```
 
-### Setup MongoDB URL
-
-In `src/index.ts`:
+### Setup MongoDB URL In .ENV File
+Create `.env` file
+In `.env`:
 
 ```js
-const MONGO_URL = ''; // DB URI
+MONGO_URL = 'YOUR_MONGODB_URL' // DB URI
+SECRET = 'YOUR_SECRET_TO_ENCRYPT' // You can write whatever you want
 ```
 
 ### Start the app
