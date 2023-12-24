@@ -24,7 +24,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial.git
+git clone https://github.com/suleymancansimsek/restful-api-ts-mongodb-node.git
 ```
 
 ### Install packages
